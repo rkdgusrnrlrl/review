@@ -7,3 +7,6 @@
 
 
 ## 참가한 행사 후기 목록
+
+- [D.light meetup(2018.07.28)](https://github.com/rkdgusrnrlrl/review/blob/master/%5B2018-07-28%5DD.light%20meetup(Design%20X%20Development%20highlight).md)
+
