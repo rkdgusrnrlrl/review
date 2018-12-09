@@ -11,6 +11,6 @@
 - [D.light meetup(2018.07.28)](https://github.com/rkdgusrnrlrl/review/blob/master/%5B2018-07-28%5DD.light%20meetup(Design%20X%20Development%20highlight).md)
 - [파이콘 2018 튜토리얼](https://github.com/rkdgusrnrlrl/review/blob/master/%5B2018-08-17%5Dpycon2018_tutorial.md)
 - [파이콘 2018 1일차](https://github.com/rkdgusrnrlrl/review/blob/master/[2018-08-18]pycon2018_1st_day.md)
-- [GDG 라이트닝 토크 & 네트워킹](https://github.com/rkdgusrnrlrl/review/blob/master/[2018-10-12]Lightning Talk & Networking with GDG Campus Korea.md)
-- [AWS 101](https://github.com/rkdgusrnrlrl/review/blob/master/[2018-10-12]aws_101.md)
+- [GDG 라이트닝 토크 & 네트워킹](https://github.com/rkdgusrnrlrl/review/blob/master/[2018-10-12]LightningTalk&NetworkingwithGDG )
+- [AWS 101](https://github.com/rkdgusrnrlrl/review/blob/master/[2018-12-03]aws_101)
 
